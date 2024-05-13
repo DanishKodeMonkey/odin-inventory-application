@@ -32,6 +32,9 @@ This cohesive integration enables a smooth user experience.
 
 Thanks to Embedded JavaScript templating engine, we are able to combined templates and our database data models to create actual HTML code to respond to the users HTTP requests!
 
+## Check it out!
+
+[Check it out here on glitch.com](https://grizzled-cooked-atlasaurus.glitch.me/catalog)
 ## How does it work?
 
 TOIMA uses the combined power of MongoDB, Node.js, and Express to deliver a simple and seamless experience for organizing and manipulating inventory data. And has served as a great experience to learn the capabilities of a well organized full stack project.
